@@ -1,0 +1,27 @@
+{
+  "name": "simple-socket-chat-client",
+  "version": "1.0.0",
+  "description": "client connection for simple-socket-chat-server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bdconnors/simple-socket-chat-client.git"
+  },
+  "keywords": [
+    "chat",
+    "socket",
+    "client"
+  ],
+  "author": "Brandon Connors <bdc5435@rit.edu>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bdconnors/simple-socket-chat-client/issues"
+  },
+  "homepage": "https://github.com/bdconnors/simple-socket-chat-client#readme",
+  "dependencies": {
+    "socket.io-client": "^2.3.0"
+  }
+}
